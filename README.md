@@ -10,7 +10,7 @@ The Automobile Sales Dashboard provides a comprehensive view of total revenue an
 
 4) Visual analysis of sale of automobiles across different regions.
 
-Actionable insights to guide inventory and sales strategy
+5) Actionable insights to guide inventory and sales strategy
 
 # Technologies Used:
 Power BI Desktop
@@ -24,6 +24,6 @@ Data modeling and transformation in Power Query
 
 2) Classic Car is the top most vehicle category as per sale.
 
-3)Ford ThunderedBird Vehicle had been least sold among all vehicles.
+3) Ford ThunderedBird Vehicle had been least sold among all vehicles.
 
 4) Most sold model by quantity is the Ferrari 360 Spider red.
